@@ -63,10 +63,10 @@ class Timer extends Component {
 
 
 
-    handleSubmit =e=>{
-        alert('it works')
-        // e.preventDefault()
-    }
+    // handleSubmit =e=>{
+    //     alert('it works')
+    //     // e.preventDefault()
+    // }
 
     leadingZero(num) {
         if (num < 10) {
